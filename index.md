@@ -10,8 +10,8 @@
 
 content/intro
 
-content/chapter1
+content/recording
 
-content/chapter2
+content/mixing
 
-content/chapter3
+content/mastering

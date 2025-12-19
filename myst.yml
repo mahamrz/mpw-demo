@@ -10,9 +10,9 @@ project:
     - file: index.md
     - title: Content
       children:
-        - file: content/chapter1.md
-        - file: content/chapter2.md
-        - file: content/chapter3.md
+        - file: content/recording.md
+        - file: content/mixing.md
+        - file: content/mastering.md
         - file: content/intro.md
     
 site:
