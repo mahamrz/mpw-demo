@@ -1,0 +1,9 @@
+version: 1
+
+project:
+  title: MPW Demo
+  authors:
+    - name: Maham R
+
+site:
+  title: MPW Demo
