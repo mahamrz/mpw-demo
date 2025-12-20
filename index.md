@@ -7,16 +7,3 @@ description: "Welcome to the studio."
 ---
 
 ![Book cover](content/figures/cover/websitecover.jpeg)
-
-
-
-```{toctree}
-
-:maxdepth: 2
-
-
-content/week1
-
-content/week2
-
-content/week3
