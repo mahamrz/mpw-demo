@@ -1,4 +1,12 @@
-\# This is an index file, lol.
+---
+title: Music Production Walkthru
+subtitle: Record, Mix, Master
+authors: 
+ - name: Lecture notes for MUS1703, University of Oslo
+description: "Welcome to the studio."
+---
+
+![Book cover](figures/cover/websitecover.jpeg)
 
 
 
@@ -7,11 +15,8 @@
 :maxdepth: 2
 
 
+content/week1
 
-content/intro
+content/week2
 
-content/recording
-
-content/mixing
-
-content/mastering
+content/week3
