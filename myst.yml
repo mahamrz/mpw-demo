@@ -29,6 +29,6 @@ site:
   template: book-theme
   options:
    # favicon: ../favicon.ico
-    logo: figures/cover/logo.png
+    logo: content/figures/cover/logo.png
     show_myst_footer: false
     show_myst_banner: false
