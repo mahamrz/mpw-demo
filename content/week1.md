@@ -14,7 +14,7 @@ This week introduces the fundamentals of **synthesizers** and **subtractive synt
 Can you define the term "synthesis"?
 ```
 
-## Learning outcomes (By the end of Week 1)
+## Learning outcomes
 
 - **Define** basic terms: synthesis, oscillator, waveform, filter, envelope, LFO.  
 - **Explain** the signal flow of a subtractive synth and how filters shape timbre.  
@@ -23,17 +23,15 @@ Can you define the term "synthesis"?
 
 ---
 
-## Week plan / Topics
+## Topics covered
 
 1. Historical context & why synths matter in music production  
 2. Basic building blocks: oscillators, waveforms, filter types, envelopes, LFOs  
-3. Subtractive synthesis signal path and workflow  
-4. Live demo: building patches step-by-step  
-5. Lab: guided patch exercises and mini-assignment
+3. Subtractive synthesis signal path and workflow
 
 ---
 
-## Key concepts & quick definitions
+## Definitions
 
 - **Synthesis:** Generating sound electronically or digitally.  
 - **Subtractive synthesis:** Start with harmonically rich signals (e.g., saw or square) and remove frequencies with filters to shape sound.  
@@ -44,13 +42,13 @@ Can you define the term "synthesis"?
 
 ---
 
-## Historical context (brief)
+## Historical context
 
 From early modular synthesizers (Moog, Buchla) to modern software synths, subtractive synthesis has been foundational in electronic, pop, and film music. Key artists to listen to: Kraftwerk, Wendy Carlos, Vangelis, Depeche Mode, and seminal modern producers who use subtractive synths extensively.
 
 ---
 
-## Lecture notes — practical signal flow
+## Practical signal flow
 
 Typical subtractive chain:
 1. **Oscillator(s)** generate waveform(s) → mix for harmonic content  
@@ -64,7 +62,7 @@ Tip: Use a bright waveform (saw) + low-pass filter with modest resonance for a c
 
 ---
 
-## Demo / In-class exercises
+## In-class demo
 
 Step-by-step demo (10–15 minutes):
 - Start with a single sawtooth oscillator at 0 detune.  
@@ -77,21 +75,21 @@ Software suggestions: Ableton Live (Operator, Analog), Logic (ES2), NI Massive/M
 
 ---
 
-## Lab exercises (do these in your DAW / synth)
+## Lab work (do these in your DAW / synth)
 
-1. **Bass patch (30–45 min)**  
+1. **Bass patch**  
    - Oscillator: saw + octave sub-oscillator  
    - Filter: low-pass, cutoff low, resonance medium  
    - Envelopes: short amp attack, moderate release; filter envelope adds punch  
    - Deliverable: 4-bar loop exported as WAV + patch screenshot
 
-2. **Pad patch (45–60 min)**  
+2. **Pad patch**  
    - Oscillators: two detuned saws or triangle + FM for warmth  
    - Slow attack, long release on amp envelope  
    - LFO on pitch or filter for slow movement  
    - Deliverable: 8-bar example + patch screenshot
 
-3. **Lead patch (30 min)**  
+3. **Lead patch**  
    - Oscillator: waveform with bright harmonics (pulse or saw)  
    - Filter: higher cutoff, higher resonance, shorter filter envelope  
    - Optional: slight distortion or saturation  
@@ -101,29 +99,12 @@ For each patch, write 3–5 lines documenting signal path and 2 reasons for each
 
 ---
 
-## Assignment (Summative)
-
-Create a short piece or 8–16 bar track (1–2 minutes) that prominently features a patch made with subtractive synthesis.
-
-Deliverables:
-- **Audio** file (WAV or MP3)  
-- **Patch documentation**: annotated screenshot(s) showing signal flow and key parameter values  
-- **Reflection** (200–300 words): explain design goals and how you used subtractive techniques to meet them
-
-Grading rubric:
-- Sound design & creativity — 40%  
-- Technical documentation & patch screenshots — 30%  
-- Musicality & arrangement — 20%  
-- Reflection clarity — 10%
-
----
-
-## Formative assessment questions
+## Assessment questions
 
 - Question: **Can you define the term "synthesis"?**  
   Model answer (short): “Synthesis is the process of creating sound by generating and manipulating electrical or digital signals, often combining oscillators, filters, and modulators to shape timbre and dynamics.”
 
-- Short quiz prompts:
+- Test Yourself:
   1. What does a low-pass filter remove?  
   2. Describe what resonance does at the cutoff frequency.  
   3. Give one reason to use an LFO on filter cutoff.
@@ -155,22 +136,20 @@ Recommended tracks/articles to listen/read:
 
 ---
 
-## Advanced/Optional topics
+## Advanced topics
 
-- Comparison: Subtractive vs. FM vs. Wavetable synthesis  
-- Modulation matrices and routing strategies  
-- Filter design (analog-modelled vs. digital) and saturation/distortion
+- Comparison: Subtractive vs. FM vs. Wavetable synthesis
 
 ---
 
-## Accessibility & inclusivity
+## Task before next week:
+<u>Assignment 0</u>
 
-- Provide alternative text for screenshots.  
-- Use high-contrast colors for step-by-step slides and share DAW project files where possible.
+Create a short piece or 8–16 bar track (1–2 minutes) that prominently features a patch made with subtractive synthesis.
+
+Deliverables:
+- **Audio** file (WAV or MP3)  
+- **Patch documentation**: annotated screenshot(s) showing signal flow and key parameter values  
+- **Reflection** (100–200 words): explain design goals and how you used subtractive techniques to meet them
 
 ---
-
-## Quick tasks before next week
-
-- Complete at least one lab patch and upload demo + screenshot.  
-- Post the 200–300 word reflection to the assignment submission.
