@@ -122,14 +122,14 @@ Recommended tracks/articles to listen/read:
 ---
 <p><strong>Embedded video:</strong> Kraftwerk — synthesizer demo (YouTube)</p>
 
-<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+<div style="width:100%;aspect-ratio:16/9;">
   <iframe
     src="https://www.youtube-nocookie.com/embed/9B8Xc7CbGs4"
     title="Kraftwerk synthesizer demo — YouTube"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-    style="position:absolute;top:0;left:0;width:100%;height:100%;">
+    style="width:100%;height:100%;border:0;display:block;">
   </iframe>
 </div>
 
