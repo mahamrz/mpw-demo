@@ -5,6 +5,8 @@ authors: MUS1703, Week 1
 description: "This page takes you through Week 1 of the course."
 ---
 
+![synth](figures/cover/synth.jpg)
+
 ## Have you ever seen a synth before?
 
 This week introduces the fundamentals of **synthesizers** and **subtractive synthesis**. We cover history, core components (oscillators, filters, envelopes, LFOs), signal flow, and hands-on patch creation. The aim is to give you conceptual grounding and practical skills to design and document original sounds.
