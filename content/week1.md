@@ -2,7 +2,7 @@
 title: "1. Synthesizers"
 subtitle: "Synthesizers and subtractive synthesis"
 authors: MUS1703, Week 1
-description: "This page takes you through Week 1 of the course.
+description: "This page takes you through Week 1 of the course."
 ---
 
 ## Have you ever seen a synth before?
