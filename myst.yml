@@ -6,8 +6,8 @@ project:
   description: "How to make it sound good."
   keywords: [music, production, walkthrough, record, mix, master]
   authors:
-    - name: Maham R
-  github: https://mahamrz.github.io/mpw-demo
+    - name: MUS1703
+  github: https://github.com/mahamrz/mpw-demo
   license: CC-BY-4.0
   open_access: true
 
