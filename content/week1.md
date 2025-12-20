@@ -25,14 +25,6 @@ Can you define the term "synthesis"?
 
 ---
 
-## Topics covered
-
-1. Historical context & why synths matter in music production  
-2. Basic building blocks: oscillators, waveforms, filter types, envelopes, LFOs  
-3. Subtractive synthesis signal path and workflow
-
----
-
 ## Definitions
 
 - **Synthesis:** Generating sound electronically or digitally.  
