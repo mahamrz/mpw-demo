@@ -6,4 +6,4 @@ authors:
 description: "Welcome to the studio."
 ---
 
-![Book cover](content\figures\cover\websitecover.jpg)
+![Book cover](content/figures/cover/websitecover.jpg)
