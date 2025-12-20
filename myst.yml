@@ -17,6 +17,12 @@ project:
     - file: content/week1.md
     - file: content/week2.md
     - file: content/week3.md
+    - file: content/week4.md
+    - file: content/week5.md
+    - file: content/week6.md
+    - file: content/week7.md
+    - file: content/week8.md
+    - file: content/week9.md
     
 site:
   title: MPW Demo
