@@ -30,5 +30,6 @@ site:
   options:
    # favicon: ../favicon.ico
     logo: content/figures/cover/logo.jpg
+    logo_dark: content/figures/cover/logo_dark.jpg
     show_myst_footer: false
     show_myst_banner: false
