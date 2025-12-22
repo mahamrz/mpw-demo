@@ -5,10 +5,8 @@ project:
   subtitle: MUS1703
   description: "Make it sound good."
   keywords: [music, production, walkthrough]
-  authors:
-    - name: MUS1703
+  authors: MUS1703
   github: https://github.com/mahamrz/mpw-demo
-  edit_url: null
   license: CC-BY-4.0
   open_access: true
 
@@ -24,7 +22,8 @@ project:
     - file: content/week7.md
     - file: content/week8.md
     - file: content/week9.md
-    
+  
+  
 site:
   title: MPW Demo
   template: book-theme
@@ -35,4 +34,5 @@ site:
     show_myst_footer: false
     show_myst_banner: false
     outline_maxdepth: 1
-    hide_myst_branding: true
+  #  hide_myst_branding: true
+    
