@@ -9,7 +9,7 @@ edit_url: null
 
 ![synth](figures/cover/synth.jpg)
 
-## Have you ever used a synth?
+## Have you ever played a synth?
 
 This week introduces the fundamentals of **synthesizers** and **subtractive synthesis**. We cover history, core components (oscillators, filters, envelopes, LFOs), signal flow, and hands-on patch creation. The aim is to give you conceptual grounding and practical skills to design and document original sounds.
 
