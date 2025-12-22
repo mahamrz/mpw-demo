@@ -42,6 +42,14 @@ From early modular synthesizers (Moog, Buchla) to modern software synths, subtra
 
 ---
 
+:::{aside} Margin Content
+Here’s some margin content! It was created by using the {myst:directive}`margin` directive in a Markdown, we can include images:
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/f8/1st_commercial_Moog_synthesizer_%281964%2C_commissioned_by_the_Alwin_Nikolai_Dance_Theater_of_NY%29_%40_Stearns_Collection_%28Stearns_2035%29%2C_University_of_Michigan.jpg)
+
+The first commercial Moog synthesizer (1964).
+:::
+
 ## Practical signal flow
 
 Typical subtractive chain:
@@ -52,8 +60,9 @@ Typical subtractive chain:
 5. **LFOs** and additional modulators for movement  
 6. **Effects** (reverb, delay, distortion) for spatialization and color
 
-Tip: Use a bright waveform (saw) + low-pass filter with modest resonance for a classic subtractive sound.
-
+:::{tip}
+Use a bright waveform (saw) + low-pass filter with modest resonance for a classic subtractive sound.
+:::
 ---
 
 ## In-class demo
