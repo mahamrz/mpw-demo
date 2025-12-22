@@ -5,6 +5,7 @@ authors: MUS1703, Week 1
 description: "This page takes you through Week 1 of the course."
 ---
 
+
 ![synth](figures/cover/synth.jpg)
 
 ## Have you ever seen a synth before?
@@ -16,7 +17,7 @@ This week introduces the fundamentals of **synthesizers** and **subtractive synt
 Can you define the term "synthesis"?
 ```
 
-## Learning outcomes
+# Learning outcomes
 
 - **Define** basic terms: synthesis, oscillator, waveform, filter, envelope, LFO.  
 - **Explain** the signal flow of a subtractive synth and how filters shape timbre.  
@@ -24,7 +25,6 @@ Can you define the term "synthesis"?
 - **Document** and **reflect** on sound-design choices in a short written report.
 
 ---
-
 ## Definitions
 
 - **Synthesis:** Generating sound electronically or digitally.  
@@ -35,20 +35,19 @@ Can you define the term "synthesis"?
 - **LFO:** Low-frequency oscillator used for slow modulation (vibrato, tremolo, filter wobble).
 
 ---
+:::{aside}
+:::{figure}
+:label: moog synth
+![](https://upload.wikimedia.org/wikipedia/commons/f/f8/1st_commercial_Moog_synthesizer_%281964%2C_commissioned_by_the_Alwin_Nikolai_Dance_Theater_of_NY%29_%40_Stearns_Collection_%28Stearns_2035%29%2C_University_of_Michigan.jpg)
+
+The first commercial Moog synthesizer (1964).
+::::::
 
 ## Historical context
 
 From early modular synthesizers (Moog, Buchla) to modern software synths, subtractive synthesis has been foundational in electronic, pop, and film music. Key artists to listen to: Kraftwerk, Wendy Carlos, Vangelis, Depeche Mode, and seminal modern producers who use subtractive synths extensively.
 
 ---
-
-:::{aside} Margin Content
-Here’s some margin content! It was created by using the {myst:directive}`margin` directive in a Markdown, we can include images:
-
-![](https://upload.wikimedia.org/wikipedia/commons/f/f8/1st_commercial_Moog_synthesizer_%281964%2C_commissioned_by_the_Alwin_Nikolai_Dance_Theater_of_NY%29_%40_Stearns_Collection_%28Stearns_2035%29%2C_University_of_Michigan.jpg)
-
-The first commercial Moog synthesizer (1964).
-:::
 
 ## Practical signal flow
 
@@ -78,7 +77,8 @@ Software suggestions: Ableton Live (Operator, Analog), Logic (ES2), NI Massive/M
 
 ---
 
-## Lab work (do these in your DAW / synth)
+# Lab work
+Do these in your DAW/synth.
 
 1. **Bass patch**  
    - Oscillator: saw + octave sub-oscillator  
@@ -145,7 +145,7 @@ Recommended tracks/articles to listen/read:
 
 ---
 
-## Task before next week:
+# Task before next week
 <u>Assignment 0</u>
 
 Create a short piece or 8–16 bar track (1–2 minutes) that prominently features a patch made with subtractive synthesis.

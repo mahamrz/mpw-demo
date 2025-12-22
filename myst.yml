@@ -8,6 +8,7 @@ project:
   authors:
     - name: MUS1703
   github: https://github.com/mahamrz/mpw-demo
+  edit_url: none
   license: CC-BY-4.0
   open_access: true
 
@@ -33,3 +34,5 @@ site:
     logo_dark: content/figures/cover/logo_dark.jpg
     show_myst_footer: false
     show_myst_banner: false
+    outline_maxdepth: 1
+    hide_myst_branding: true
