@@ -83,7 +83,7 @@ Sampling began as tape-edit and turntable techniques and matured with digital sa
 
 ---
 
-## ⚖️ Legal & ethical considerations
+## Legal & ethical considerations
 - **Clearance:** In public releases, samples often need clearance from original rights holders. Classroom projects may use samples for educational purposes, but students must document sources and licenses.
 - **Creative alternatives:** Use CC0/CC-BY samples (e.g., freesound.org with appropriate license), record your own material, or use commercially cleared sample libraries to avoid legal issues.
 - **Attribution:** When required by license, include composer/source credits in your README and project metadata.

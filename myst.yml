@@ -8,7 +8,7 @@ project:
   authors:
     - name: MUS1703
   github: https://github.com/mahamrz/mpw-demo
-  edit_url: none
+  edit_url: null
   license: CC-BY-4.0
   open_access: true
 
