@@ -34,5 +34,7 @@ site:
     show_myst_footer: false
     show_myst_banner: false
     outline_maxdepth: 1
-  #  hide_myst_branding: true
+    hide_myst_branding: true
+  parts:
+    primary_sidebar_footer: ""        # blank removes the text
     

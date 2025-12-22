@@ -3,6 +3,7 @@ title: "2. Sampling"
 subtitle: "Techniques in sampling"
 authors: MUS1703, Week 2
 description: "This page takes you through Week 2 of the course."
+edit_url: null
 ---
 
 ## What is sampled music?
